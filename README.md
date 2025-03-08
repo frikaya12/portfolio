@@ -1,16 +1,6 @@
-# 🌟 Portfolio - Aya frik
+## ✅ Projet Terminé :
 
-👋 Bienvenue sur mon portfolio ! Je suis une **Data Analyst | Business Analyst** passionnée par l'**analyse de données et l'intelligence artificielle**.  
+📊 **[Prédiction des Ventes - Machine Learning](https://github.com/frikaya12/Predict-Sales-ML)**  
+   - Analyse des ventes et prédiction de la demande avec Machine Learning.  
+   - 🔹 Technologies : Python, Scikit-learn, Pandas, Jupyter Notebook.  
 
-📌 **Projets en cours :**  
-1️⃣ **[Plateforme de Recommandation Académique](projects/recommandation_academique.md)** (en cours 🚀)  
-2️⃣ **[Analyse Prédictive des Tendances du Marché](#)** (à venir)  
-3️⃣ **[Analyse de Sentiments - NLP](#)** (à venir)  
-
-📊 **Compétences :**  
-- Python (Pandas, Scikit-learn, NLP)  
-- SQL, Power BI, Tableau  
-- Machine Learning & Data Analytics  
-
-💼 **Me contacter :**  
-[LinkedIn](https://www.linkedin.com/in/tonprofil) | [GitHub](https://github.com/frikaya12)  
